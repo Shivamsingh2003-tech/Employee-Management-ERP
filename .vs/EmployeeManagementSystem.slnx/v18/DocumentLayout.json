@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DFAB8D-AE68-4884-8F3A-0D48D8A44C8A}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\mayan\\source\\repos\\employeemanagementsystem\\employeemanagementsystem\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D8DFAB8D-AE68-4884-8F3A-0D48D8A44C8A}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DFAB8D-AE68-4884-8F3A-0D48D8A44C8A}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\employeemanagementsystem\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D8DFAB8D-AE68-4884-8F3A-0D48D8A44C8A}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DFAB8D-AE68-4884-8F3A-0D48D8A44C8A}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\employeemanagementsystem\\employeedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DFAB8D-AE68-4884-8F3A-0D48D8A44C8A}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\employeedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DFAB8D-AE68-4884-8F3A-0D48D8A44C8A}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\employeemanagementsystem\\employeedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D8DFAB8D-AE68-4884-8F3A-0D48D8A44C8A}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\employeedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DFAB8D-AE68-4884-8F3A-0D48D8A44C8A}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\employeemanagementsystem\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D8DFAB8D-AE68-4884-8F3A-0D48D8A44C8A}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DFAB8D-AE68-4884-8F3A-0D48D8A44C8A}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\employeemanagementsystem\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DFAB8D-AE68-4884-8F3A-0D48D8A44C8A}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DFAB8D-AE68-4884-8F3A-0D48D8A44C8A}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\employeemanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D8DFAB8D-AE68-4884-8F3A-0D48D8A44C8A}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeDetails.aspx.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\EmployeeDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeDetails.aspx.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\EmployeeDetails.aspx.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:57:13.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Web.config",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Web.config",
+              "ToolTip": "C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Web.config",
+              "RelativeToolTip": "EmployeeManagementSystem\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-08T09:44:59.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeDetails.aspx",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\EmployeeDetails.aspx",
+              "ToolTip": "C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeDetails.aspx",
+              "RelativeToolTip": "EmployeeManagementSystem\\EmployeeDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-06T06:46:09.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\style.css",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\style.css",
+              "ToolTip": "C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\style.css",
+              "RelativeToolTip": "EmployeeManagementSystem\\style.css",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAUwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-03T17:17:45.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Default.aspx",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Default.aspx",
+              "ToolTip": "C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Default.aspx",
+              "RelativeToolTip": "EmployeeManagementSystem\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-17T15:15:44.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Site.Master",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Site.Master",
+              "ToolTip": "C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Site.Master",
+              "RelativeToolTip": "EmployeeManagementSystem\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-10T04:48:22.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\mayan\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Default.aspx.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Default.aspx.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAAgwCcBAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:08:29.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
